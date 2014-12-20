@@ -8,11 +8,11 @@
  },
  "notes": "new update systems",
  "autopack": {
-  "version_std": "0.6.689",
+  "version_std": "0.6.690",
   "host": [
    "all"
   ],
-  "version_dev": "0.6.689"
+  "version_dev": "0.6.690"
  },
  "upy": {
   "version_std": "0.7.18",
