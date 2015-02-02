@@ -1,24 +1,24 @@
 {
  "ePMV": {
-  "version_std": "0.6.30",
+  "version_std": "0.6.31",
   "host": [
    "all"
   ],
-  "version_dev": "0.6.30"
+  "version_dev": "0.6.31"
  },
  "notes": "new update systems",
  "autopack": {
-  "version_std": "0.6.703",
+  "version_std": "0.6.705",
   "host": [
    "all"
   ],
-  "version_dev": "0.6.703"
+  "version_dev": "0.6.705"
  },
  "upy": {
-  "version_std": "0.7.35",
+  "version_std": "0.7.36",
   "host": [
    "all"
   ],
-  "version_dev": "0.7.35"
+  "version_dev": "0.7.36"
  }
 }
